@@ -1,0 +1,60 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 80px;
+  align-self: center;
+}
+
+.App-header {
+  display: flex;
+  justify-content: center;
+  background-color: #222;
+  height: 90px;
+  padding: 10px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+  margin: 0;
+  margin-bottom: 2%;
+}
+
+.App-body {
+  display: flex;
+  flex-direction: column;
+  background-color: #555;
+  padding: 2%;
+  color: white;
+}
+
+.info {
+  max-width: 900px;
+  margin: 5px auto;
+  background-color: white;
+}
+
+.popup {
+  min-height: 50px;
+}
+
+.App-footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #222;
+  height: 50px;
+  padding: 20px;
+  color: white;
+}
+
+.coindesk a {
+  text-decoration: none;
+  color: #fcc118;
+}
+
+.coindesk a:hover {
+  color:rgb(0, 0, 238);
+}
