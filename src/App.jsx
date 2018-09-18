@@ -72,7 +72,7 @@ class App extends Component {
           <img src={logoBit} className="App-logo" alt="logo" />
         </header>
         <main className="App-body">
-          <p className="App-title">Bitcoin Price Chart</p>
+          <p className="App-title">1-Month Bitcoin Price Chart</p>
           <div className="info">
             { 
               !this.state.fetchingData ? 

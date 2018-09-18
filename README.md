@@ -1,9 +1,9 @@
 
 # bitcoin_price_chart
 
-Interactive price chart for Bitcoin.
+Interactive 1-month price chart for Bitcoin.
 
-![screenshot-2018-18-09](https://user-images.githubusercontent.com/35805922/45674104-0832ae00-bb35-11e8-8aad-64fa525146ea.png)
+![screenshot_2018-18-09](https://user-images.githubusercontent.com/35805922/45697429-7cd60e80-bb6e-11e8-9969-1db38dbeb042.png)
 
 1. Clone or download repository.
 2. Enter <code>npm install</code> in project folder.
