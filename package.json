@@ -2,6 +2,7 @@
   "name": "crypto_price_charts",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://solarage.github.io/bitcoin_price_chart/",
   "dependencies": {
     "moment": "^2.22.2",
     "react": "^16.5.1",
